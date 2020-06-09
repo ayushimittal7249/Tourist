@@ -1,0 +1,16 @@
+{
+  "name": "Priyanshi",
+  "version": "1.0.0",
+  "description": "This is a website for Hotel Management ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "ayushi",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
