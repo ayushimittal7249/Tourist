@@ -1,3 +1,5 @@
+
+
 .navbar-dark {
     background-color: #004675;
 }
@@ -23,4 +25,10 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+.close {
+    color: black;
+}
+
+
 
