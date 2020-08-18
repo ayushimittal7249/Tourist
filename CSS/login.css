@@ -1,5 +1,12 @@
 body {
     background-color: rgba(0, 0, 0, 0.5);
+    padding:100px 0px 0px 0px;
+    z-index:0;
+}
+
+.bg-color {
+    background-color: #004675;
+    color: #F3F3F3;
 }
 
 .loginborder {
@@ -9,4 +16,8 @@ body {
 .upper {
     color: black;
     
+}
+
+.close {
+    color: black;
 }
