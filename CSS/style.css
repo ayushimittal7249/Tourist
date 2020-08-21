@@ -188,23 +188,23 @@ label #sidebaricon:hover
 {
 	0%
 	{
-		background-image:url("/Images/north.jpg");
+		background-image:url("../Images/north.jpg");
 	}
 	25%
 	{
-		background-image:url("/Images/west.jpg");
+		background-image:url("../Images/west.jpg");
 	}
 	50%
 	{
-		background-image:url("/Images/east.jpg");
+		background-image:url("../Images/east.jpg");
 	}
 	75%
 	{
-		background-image:url("/Images/south.jpg");
+		background-image:url("../Images/south.jpg");
 	}
 	100%
 	{
-		background-image:url("/Images/north.jpg");
+		background-image:url("../Images/north.jpg");
 	}
 }
 
